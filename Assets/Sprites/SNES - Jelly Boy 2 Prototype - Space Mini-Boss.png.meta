@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: c6dbc0cb7955c6243a51e388519b9a41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1775099249196224946
+    second: boss1
+  - first:
+      213: 7043262997678665169
+    second: boss2
+  - first:
+      213: -4297747282552883289
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_2
+  - first:
+      213: 4251793452205158368
+    second: boss3
+  - first:
+      213: 6370081779664277916
+    second: boss4
+  - first:
+      213: 8159876386053455295
+    second: boss5
+  - first:
+      213: 7226835780744285223
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_6
+  - first:
+      213: -320542075761016139
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_7
+  - first:
+      213: 4755450497168765911
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_8
+  - first:
+      213: 690167848133990149
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_9
+  - first:
+      213: -8070231241283872264
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_10
+  - first:
+      213: 2906308768665376706
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_11
+  - first:
+      213: 5386547723015318013
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_12
+  - first:
+      213: 4558294265219887610
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_13
+  - first:
+      213: 4800793934394673545
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_14
+  - first:
+      213: 4791415385497305708
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_15
+  - first:
+      213: -6384393937549772487
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_16
+  - first:
+      213: 5908404546238949426
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_17
+  - first:
+      213: 994026427506793607
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_18
+  - first:
+      213: 4156032073875049066
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_19
+  - first:
+      213: 724983060749297324
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_20
+  - first:
+      213: 2804059003231254500
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_21
+  - first:
+      213: -2007638910784439488
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_22
+  - first:
+      213: 2163075023736627873
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_23
+  - first:
+      213: -4402999553040679613
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_24
+  - first:
+      213: 2510604992770896002
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_25
+  - first:
+      213: -4878764400055239154
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_26
+  - first:
+      213: -2586933907808756519
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_27
+  - first:
+      213: -2179996066755155636
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_28
+  - first:
+      213: -3723211840966330850
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_29
+  - first:
+      213: 4343583505001964268
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_30
+  - first:
+      213: -426950904474078175
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_31
+  - first:
+      213: -8810172427080983201
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_32
+  - first:
+      213: 1775867809192217052
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_33
+  - first:
+      213: 3299522142044920824
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_34
+  - first:
+      213: 2580960804822797543
+    second: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37819b99bbaab744faf077e243d3a162
+      internalID: 1775099249196224946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 204
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: 0.50796044, y: 0.48407936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07a10f7cbb93f4a92b1e4f477974a2
+      internalID: 7043262997678665169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 230
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c3a66d933ab8428f97329622e5674
+      internalID: -4297747282552883289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 205
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a7651a6282a984e8df8c70c983c2fa
+      internalID: 4251793452205158368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 202
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb059a03c47e0343b61c43200232a72
+      internalID: 6370081779664277916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 201
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8869989f7a924488f1258fb08ae18
+      internalID: 8159876386053455295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 230
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6853c0da6b9c6004199edaeaf36f792b
+      internalID: 7226835780744285223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 230
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0335a96618c04cf4eba56570bd7a3903
+      internalID: -320542075761016139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 230
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039a0eee48c8c9a40b087d4573836200
+      internalID: 4755450497168765911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6db33ffd8d78949a16d6aba24ac9ad
+      internalID: 690167848133990149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fe4ae3ea760d04bb30068c05118df3
+      internalID: -8070231241283872264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac7f5aa7c829649907e028cea45a92
+      internalID: 2906308768665376706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c85f08e47d4b9147966dfd80c9dd91d
+      internalID: 5386547723015318013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1955f0c1852389c458e153d29d8f9bf7
+      internalID: 4558294265219887610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92ebcfc281bbc44eace9c2e14ac9fbd
+      internalID: 4800793934394673545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0caf4e3f572dd444915e2068bd5b3b1
+      internalID: 4791415385497305708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292daae7d95bd8a4aab4ba10f6439ec5
+      internalID: -6384393937549772487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1fb738f158e2f499afd2268e69df96
+      internalID: 5908404546238949426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8683a3c843ca4a44a6f7588ad468c64
+      internalID: 994026427506793607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c66ef8f922a8a1418bab0bccba9bc04
+      internalID: 4156032073875049066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a5236ec4702144a85414561a58f217
+      internalID: 724983060749297324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7960ec6cd9746f74ca05147df3ef2c84
+      internalID: 2804059003231254500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63c105869ea6448be9fbbe184204fc
+      internalID: -2007638910784439488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb6d6d7d77f14a41a457bee19bdb4d4
+      internalID: 2163075023736627873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3172701414b01a046a87344b3e77e62a
+      internalID: -4402999553040679613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404a1b0421c6ab4459db59b431a5502f
+      internalID: 2510604992770896002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8912ce24b60cb4bb2663a72fa763e5
+      internalID: -4878764400055239154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe7ba5d4f78a4642b6cd24d725e8ea3
+      internalID: -2586933907808756519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc3842ad5969514d8124e1ed7076d8d
+      internalID: -2179996066755155636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067ba2b150af90f4593b2cc79848769b
+      internalID: -3723211840966330850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3d00d773807049ab38ff5034b078a
+      internalID: 4343583505001964268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef7ab006fc3154fb1612abbb4cb39b
+      internalID: -426950904474078175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c96c08cec1b8fb4bb6eb7f53991d879
+      internalID: -8810172427080983201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b156f31ebe440f48815f555f429b04f
+      internalID: 1775867809192217052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd38d7e4f870ba8409dde4ef8652d70d
+      internalID: 3299522142044920824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Jelly Boy 2 Prototype - Space Mini-Boss_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 38
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466570cbdc2d0b44b7e1a4bedfe7840
+      internalID: 2580960804822797543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

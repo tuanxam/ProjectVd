@@ -1,0 +1,2299 @@
+fileFormatVersion: 2
+guid: 3f40e2d23d6b9f945a47b9ebe02f40c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8572141306875446205
+    second: Arcade - Battle Garegga - Plane Portraits_0
+  - first:
+      213: -7540182670441450058
+    second: Arcade - Battle Garegga - Plane Portraits_1
+  - first:
+      213: 5428332182989516796
+    second: Arcade - Battle Garegga - Plane Portraits_2
+  - first:
+      213: -2001868417753560653
+    second: Arcade - Battle Garegga - Plane Portraits_3
+  - first:
+      213: 5223738871718545880
+    second: Arcade - Battle Garegga - Plane Portraits_4
+  - first:
+      213: -4965057093444923862
+    second: Arcade - Battle Garegga - Plane Portraits_5
+  - first:
+      213: -2331874073517005239
+    second: Arcade - Battle Garegga - Plane Portraits_6
+  - first:
+      213: -569957571058234079
+    second: Arcade - Battle Garegga - Plane Portraits_7
+  - first:
+      213: -3067973155707678202
+    second: Arcade - Battle Garegga - Plane Portraits_8
+  - first:
+      213: -1495876025171120895
+    second: Arcade - Battle Garegga - Plane Portraits_9
+  - first:
+      213: 8844522178572712229
+    second: Arcade - Battle Garegga - Plane Portraits_10
+  - first:
+      213: 7957715540523419970
+    second: Arcade - Battle Garegga - Plane Portraits_11
+  - first:
+      213: -2476315034761846075
+    second: Arcade - Battle Garegga - Plane Portraits_12
+  - first:
+      213: 1912582192468714841
+    second: Arcade - Battle Garegga - Plane Portraits_13
+  - first:
+      213: -3112413734230434010
+    second: Arcade - Battle Garegga - Plane Portraits_14
+  - first:
+      213: 4456891168303571718
+    second: Arcade - Battle Garegga - Plane Portraits_15
+  - first:
+      213: -2000726601865802608
+    second: Arcade - Battle Garegga - Plane Portraits_16
+  - first:
+      213: 4885883524038159688
+    second: Arcade - Battle Garegga - Plane Portraits_17
+  - first:
+      213: 5317230340254988420
+    second: Arcade - Battle Garegga - Plane Portraits_18
+  - first:
+      213: -3223461591005920296
+    second: Arcade - Battle Garegga - Plane Portraits_19
+  - first:
+      213: -6005019079169806054
+    second: Arcade - Battle Garegga - Plane Portraits_20
+  - first:
+      213: -2051283553238538979
+    second: Arcade - Battle Garegga - Plane Portraits_21
+  - first:
+      213: 1052189261991962681
+    second: Arcade - Battle Garegga - Plane Portraits_22
+  - first:
+      213: -8960024070510313115
+    second: Arcade - Battle Garegga - Plane Portraits_23
+  - first:
+      213: -8156538369552314555
+    second: Arcade - Battle Garegga - Plane Portraits_24
+  - first:
+      213: 8474437273953905086
+    second: Arcade - Battle Garegga - Plane Portraits_25
+  - first:
+      213: -1916200388116861832
+    second: Arcade - Battle Garegga - Plane Portraits_26
+  - first:
+      213: 3664384765750095359
+    second: Arcade - Battle Garegga - Plane Portraits_27
+  - first:
+      213: -6369770048224983164
+    second: Arcade - Battle Garegga - Plane Portraits_28
+  - first:
+      213: 400288383575060468
+    second: Arcade - Battle Garegga - Plane Portraits_29
+  - first:
+      213: -8096193370621229330
+    second: Arcade - Battle Garegga - Plane Portraits_30
+  - first:
+      213: 1071078974912363487
+    second: Arcade - Battle Garegga - Plane Portraits_31
+  - first:
+      213: -2201227754004150957
+    second: Arcade - Battle Garegga - Plane Portraits_32
+  - first:
+      213: -2747207925563955699
+    second: Arcade - Battle Garegga - Plane Portraits_33
+  - first:
+      213: -4054662458781611786
+    second: Arcade - Battle Garegga - Plane Portraits_34
+  - first:
+      213: -8742175498442654733
+    second: Arcade - Battle Garegga - Plane Portraits_35
+  - first:
+      213: -9200157439376296286
+    second: Arcade - Battle Garegga - Plane Portraits_36
+  - first:
+      213: -2896517871340804973
+    second: Arcade - Battle Garegga - Plane Portraits_37
+  - first:
+      213: -2775342306538732962
+    second: Arcade - Battle Garegga - Plane Portraits_38
+  - first:
+      213: 1768681502814964648
+    second: Arcade - Battle Garegga - Plane Portraits_39
+  - first:
+      213: -6758671625819422452
+    second: Arcade - Battle Garegga - Plane Portraits_40
+  - first:
+      213: 5840995378801538823
+    second: Arcade - Battle Garegga - Plane Portraits_41
+  - first:
+      213: -218447937959097273
+    second: Arcade - Battle Garegga - Plane Portraits_42
+  - first:
+      213: 7465511209027596578
+    second: Arcade - Battle Garegga - Plane Portraits_43
+  - first:
+      213: 4407769266092054318
+    second: Arcade - Battle Garegga - Plane Portraits_44
+  - first:
+      213: -5043380880454050511
+    second: Arcade - Battle Garegga - Plane Portraits_45
+  - first:
+      213: 6580342503998586394
+    second: Arcade - Battle Garegga - Plane Portraits_46
+  - first:
+      213: -8770200261961072410
+    second: Arcade - Battle Garegga - Plane Portraits_47
+  - first:
+      213: 3092240984281030341
+    second: Arcade - Battle Garegga - Plane Portraits_48
+  - first:
+      213: 1437964232358492765
+    second: Arcade - Battle Garegga - Plane Portraits_49
+  - first:
+      213: -8238945142591073453
+    second: Arcade - Battle Garegga - Plane Portraits_50
+  - first:
+      213: 4093975300330565042
+    second: Arcade - Battle Garegga - Plane Portraits_51
+  - first:
+      213: -6306764981287696649
+    second: Arcade - Battle Garegga - Plane Portraits_52
+  - first:
+      213: 7968510384973795077
+    second: Arcade - Battle Garegga - Plane Portraits_53
+  - first:
+      213: 2011383986510000267
+    second: Arcade - Battle Garegga - Plane Portraits_54
+  - first:
+      213: -7512227772938659240
+    second: Arcade - Battle Garegga - Plane Portraits_55
+  - first:
+      213: 7501376993701226823
+    second: Arcade - Battle Garegga - Plane Portraits_56
+  - first:
+      213: -1486690937456931508
+    second: Arcade - Battle Garegga - Plane Portraits_57
+  - first:
+      213: -5143926593264675070
+    second: Arcade - Battle Garegga - Plane Portraits_58
+  - first:
+      213: -6997581501903845722
+    second: Arcade - Battle Garegga - Plane Portraits_59
+  - first:
+      213: 4772518078169001086
+    second: Arcade - Battle Garegga - Plane Portraits_60
+  - first:
+      213: -1709354200280766423
+    second: Arcade - Battle Garegga - Plane Portraits_61
+  - first:
+      213: 5586502683846351656
+    second: Arcade - Battle Garegga - Plane Portraits_62
+  - first:
+      213: 5810886534139805861
+    second: Arcade - Battle Garegga - Plane Portraits_63
+  - first:
+      213: 2960828507878073744
+    second: Arcade - Battle Garegga - Plane Portraits_64
+  - first:
+      213: 7771009002804562823
+    second: Arcade - Battle Garegga - Plane Portraits_65
+  - first:
+      213: 366797476949785719
+    second: Arcade - Battle Garegga - Plane Portraits_66
+  - first:
+      213: 391168445576078170
+    second: Arcade - Battle Garegga - Plane Portraits_67
+  - first:
+      213: 7335756089795321884
+    second: Arcade - Battle Garegga - Plane Portraits_68
+  - first:
+      213: 1798210698909848396
+    second: Arcade - Battle Garegga - Plane Portraits_69
+  - first:
+      213: -6063104904865621543
+    second: Arcade - Battle Garegga - Plane Portraits_70
+  - first:
+      213: -3008597772294887066
+    second: Arcade - Battle Garegga - Plane Portraits_71
+  - first:
+      213: -4842895017273243294
+    second: Arcade - Battle Garegga - Plane Portraits_72
+  - first:
+      213: 2360892290668155071
+    second: Arcade - Battle Garegga - Plane Portraits_73
+  - first:
+      213: 1901125722911109561
+    second: Arcade - Battle Garegga - Plane Portraits_74
+  - first:
+      213: -4888875507192543191
+    second: Arcade - Battle Garegga - Plane Portraits_75
+  - first:
+      213: -3763493889550317548
+    second: Arcade - Battle Garegga - Plane Portraits_76
+  - first:
+      213: -1596006359497915106
+    second: Arcade - Battle Garegga - Plane Portraits_77
+  - first:
+      213: -2526159763148708034
+    second: Arcade - Battle Garegga - Plane Portraits_78
+  - first:
+      213: -2004921840988638841
+    second: Arcade - Battle Garegga - Plane Portraits_79
+  - first:
+      213: -4320935416140074922
+    second: Arcade - Battle Garegga - Plane Portraits_80
+  - first:
+      213: 3231045160355440567
+    second: Arcade - Battle Garegga - Plane Portraits_81
+  - first:
+      213: 6633131057024460778
+    second: Arcade - Battle Garegga - Plane Portraits_82
+  - first:
+      213: -2890582178901247962
+    second: Arcade - Battle Garegga - Plane Portraits_83
+  - first:
+      213: 4363185445763802523
+    second: Arcade - Battle Garegga - Plane Portraits_84
+  - first:
+      213: 7393545829763814864
+    second: Arcade - Battle Garegga - Plane Portraits_85
+  - first:
+      213: 4543392492235150148
+    second: Arcade - Battle Garegga - Plane Portraits_86
+  - first:
+      213: 6013511021064868148
+    second: Arcade - Battle Garegga - Plane Portraits_87
+  - first:
+      213: 9099027951667033185
+    second: Arcade - Battle Garegga - Plane Portraits_88
+  - first:
+      213: -2536571785431264677
+    second: Arcade - Battle Garegga - Plane Portraits_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 618
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff90216e2337f8a42923f334da773eb1
+      internalID: 8572141306875446205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 618
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bba6c2ce866b440a2a3db0583f2254
+      internalID: -7540182670441450058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 618
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7755733b50c3c4da0eed2fca91e8f1
+      internalID: 5428332182989516796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 618
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0815b60d72b0a4c8be4d05b8613613
+      internalID: -2001868417753560653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 471
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb455d5b1d3564c80be213da2ce19d
+      internalID: 5223738871718545880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 471
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340f950f42832af4b87525fa289c4501
+      internalID: -4965057093444923862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 471
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0444843ffed14ba8a37aa602d7880
+      internalID: -2331874073517005239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 471
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793228306d807142b4ef883d401f176
+      internalID: -569957571058234079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 324
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6835ccd6166f4140b60909d2fb7c933
+      internalID: -3067973155707678202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 324
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8710ae8a8a73348b0fe5dc29c90366
+      internalID: -1495876025171120895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 324
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5652aab338a24c911304f6ea24461
+      internalID: 8844522178572712229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dffa0dd3cc38247a2899abd7d54c19
+      internalID: 7957715540523419970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 177
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46691be802bc9ac4c9a643186660951f
+      internalID: -2476315034761846075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 177
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f0dc8a7b1994b49b198711048b148a
+      internalID: 1912582192468714841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 177
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994f5237d39079478ae24068fdcb9d6
+      internalID: -3112413734230434010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 177
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82113478f8accad4f9c680c674a9ef6b
+      internalID: 4456891168303571718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 30
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106c154c6cb84f6459100d226be3e88d
+      internalID: -2000726601865802608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 30
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a5698b91b8503479b9ff55008814a2
+      internalID: 4885883524038159688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 30
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bcae3077d39ca44b63c31a4cad82a4
+      internalID: 5317230340254988420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 30
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed9ba45ef242b6449eb9ad652dda117
+      internalID: -3223461591005920296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353aeceb7fbc874bafea573d90db2fc
+      internalID: -6005019079169806054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e7d6b344f829a42af6451119c290da
+      internalID: -2051283553238538979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816d8046010e1f448225ae7f987059d
+      internalID: 1052189261991962681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91915e4b418fb0b498bab8f2bd6a6365
+      internalID: -8960024070510313115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 18
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae66e910f518d648a0e7283cc5d00f8
+      internalID: -8156538369552314555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5596f6b7c14afb3468e1d66c6e004adc
+      internalID: 8474437273953905086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07221574ea8248c498752f88d8b1217e
+      internalID: -1916200388116861832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8bc157be059a0408c1f14247e03734
+      internalID: 3664384765750095359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0d5f823e3870143b4436f26d4c411b
+      internalID: -6369770048224983164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721d07bf196ccd4e911655389bba80a
+      internalID: 400288383575060468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 18
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1eab82e6cd23344b236bb9fe184f71
+      internalID: -8096193370621229330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb79ab4a5adfaa94a85114fbc1831790
+      internalID: 1071078974912363487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf7bf84678846449cd4428bd078585
+      internalID: -2201227754004150957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_33
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 18
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c2ad80acd228e408dbfc159e06a598
+      internalID: -2747207925563955699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60055b3f56d8a8a4e86ddb9804a6ff52
+      internalID: -4054662458781611786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 18
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341a0cc1016f52b42bdc3675a7f13c43
+      internalID: -8742175498442654733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7cc6c15181af7419e11ec7f6ef4d70
+      internalID: -9200157439376296286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bad33bdff3152c4a9f3ad763206e539
+      internalID: -2896517871340804973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eee6e0095231d4f9665801c8123e43
+      internalID: -2775342306538732962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 18
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c5d349ae7326549aa306d83291e23d
+      internalID: 1768681502814964648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdd10065413a814eaf63220cbc81912
+      internalID: -6758671625819422452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58593104e4240e947a204701b8045434
+      internalID: 5840995378801538823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_42
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 18
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e055fa36442f14097993a7cb453740
+      internalID: -218447937959097273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 18
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d73e29b2ce364490c6c48a6a07a43
+      internalID: 7465511209027596578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9373fe6f42bdf2a4798b94b8386b0723
+      internalID: 4407769266092054318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f26a33fff7b4b4ca4ffb4a02a82450
+      internalID: -5043380880454050511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd3c251a106104ba32ad5287c00111
+      internalID: 6580342503998586394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 18
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b427812e68843d44583d2cacb94fdae8
+      internalID: -8770200261961072410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_48
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 18
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951908aa78063b4682309e07e8f4678
+      internalID: 3092240984281030341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf32aba79a9bb429736aaf652f99c4
+      internalID: 1437964232358492765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 18
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e0e759de8d71649b370f6d11944cc5
+      internalID: -8238945142591073453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_51
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881693b0e19f104fa477f4fa26d2a64
+      internalID: 4093975300330565042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50db80ca67333e04cbc6fc2d60fc764c
+      internalID: -6306764981287696649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682a5b2cf8b498d468a9b0307c4affc0
+      internalID: 7968510384973795077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a5131e95f003542b76be8cee6a9695
+      internalID: 2011383986510000267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 18
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408daa340785596428e095daa03a4e91
+      internalID: -7512227772938659240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c6342fd41472948a16226c623faf47
+      internalID: 7501376993701226823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b56a2ba7eef484886f7684bc31a453
+      internalID: -1486690937456931508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_58
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 18
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b0a37695f5ae43bfc610aa6294f4d
+      internalID: -5143926593264675070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 16
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd592ff52d4bb8040aea8b939f4ef742
+      internalID: -6997581501903845722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_60
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4397a276ae10d3f4aa050c79567d885a
+      internalID: 4772518078169001086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_61
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a76c78d0225448bd76455ebc53d32
+      internalID: -1709354200280766423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a966114c57515a7419de6acdea17502c
+      internalID: 5586502683846351656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167316a827b10be4d9e168f19ac3a4b5
+      internalID: 5810886534139805861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9e01e5d88b854999726b0ff1c4eab
+      internalID: 2960828507878073744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_65
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e872227e5d53f3b40b0b6fb74b3324dc
+      internalID: 7771009002804562823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_66
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85738a32dde01db4fac8e26b28abc03b
+      internalID: 366797476949785719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa08e5543fe9d48a70ddfe889f520c
+      internalID: 391168445576078170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e600338fa3c24f545b91d008f6c5aa70
+      internalID: 7335756089795321884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821abb3c3db091f4994e86bfa7696763
+      internalID: 1798210698909848396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_70
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063dba75dc8bcc74b909059f0f05c5c9
+      internalID: -6063104904865621543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d24ce0f7551534e88b6f7121e3c6a4
+      internalID: -3008597772294887066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3951b3efefe0a4788517a37d0fe0eb
+      internalID: -4842895017273243294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_73
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d649d77e5dd2ee4f825c4dfae23710b
+      internalID: 2360892290668155071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_74
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5db0515066b16e44ac3311f1de942c9
+      internalID: 1901125722911109561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ea8dc4b3cf344da88756504e839ac
+      internalID: -4888875507192543191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a4ded044c57ca468bad5e831a54a46
+      internalID: -3763493889550317548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_77
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2ee3f1cef0b04b85588e05be5761c
+      internalID: -1596006359497915106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_78
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ad63e6fcdfeaf4580f8c223acf9b21
+      internalID: -2526159763148708034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e957ff700554ce74db6c093161c99198
+      internalID: -2004921840988638841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_80
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13ee604bbbde04b8c4d7d5d9325504
+      internalID: -4320935416140074922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_81
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057d8a2fd2be38041a0db65c4c2ee574
+      internalID: 3231045160355440567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aca13873613634d9e6a07164782c94
+      internalID: 6633131057024460778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5409645ebf340d4aaedb260157a199c
+      internalID: -2890582178901247962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_84
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548ef0e8b8a8ba04fb9205232a7c764b
+      internalID: 4363185445763802523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_85
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec36da98e3ff66e418cabae5772c74a7
+      internalID: 7393545829763814864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_86
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef311c26c162b4c8a6179f71a8fd30
+      internalID: 4543392492235150148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_87
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de647707888bacf4b9e348c63033e3c7
+      internalID: 6013511021064868148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae5de6ae4887454c97875af8626f83f
+      internalID: 9099027951667033185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Battle Garegga - Plane Portraits_89
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe49e9d38c673c49936cdd2bf51e3a0
+      internalID: -2536571785431264677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
